@@ -1,5 +1,5 @@
 variable "bucket" {
-    default = "my-non-prod-bucket-202555"
+    default = "my-non-prod-bucket-20250505"
 }
 variable "env" {
     default = "non-prod"
